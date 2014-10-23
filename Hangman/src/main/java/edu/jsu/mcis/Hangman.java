@@ -31,7 +31,7 @@ public class Hangman {
     
     public int guess(char c) {
     	if(available(C))
-    		return 2;
+    		return 2;//gbjjhj
     	else
     		return 1;
     }
